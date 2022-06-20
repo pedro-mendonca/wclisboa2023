@@ -1,0 +1,7 @@
+// Corrigir botões do formulário na página de manutenção.
+.wp-block-button__link {
+	border-radius: 3px;
+	white-space: nowrap;
+	font-size: .8em;
+	padding: 5px 15px;
+}
